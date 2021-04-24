@@ -1,0 +1,11 @@
+h2 {
+    font-family: 'Cairo', sans-serif;
+    font-size: 30px;
+}
+
+.chart-card {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
